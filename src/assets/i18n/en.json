@@ -1,0 +1,113 @@
+{
+    "header": {
+        "about_me": "About me",
+        "skills": "Skills",
+        "projects": "Projects"
+    },
+    "hero": {
+        "welcome": "Hi! I'm",
+        "button_work": "Check my work",
+        "button_contact": "Contact me",
+        "availability": "Available for remote work",
+        "job_title": "Frontend Developer",
+        "location": "Based in Berlin",
+        "mindset": "Open to work"
+    },
+    "about": {
+        "title": "Who I am",
+        "me": "About me",
+        "motivation": "Hello everyone, I am Serhat, I live in Berlin and I am looking forward to putting my skills from my IT training in the field of frontend into practice.",
+        "environment": "I live in Berlin and can be deployed flexibly - both on-site and remotely.",
+        "mindset": "IT is a field that is constantly evolving and that is exactly what motivates me to learn new things and continuously expand my knowledge.",
+        "offer": "Project after project, I was able to improve my skills. For me, every problem is an opportunity to grow through analysis, a structured approach, and finding practical solutions.."
+    },
+    "skills": {
+        "header": "Technologies",
+        "title": "Skill Set",
+        "description": "I am experienced in modern front-end development, specializing in Angular. My skills include building responsive, accessible, and high-performance applications using HTML, CSS, and JavaScript. I focus on writing clean, maintainable code and creating intuitive user experiences. Continuously learning and staying up to date with the latest Angular features and best practices allows me to deliver reliable and future-proof solutions in a fast-evolving digital landscape.",
+        "att_1": "You need",
+        "att_2": "another skill?",
+        "att_3": "Feel free to contact me. I look forward to expanding on my previous knowledge.",
+        "contact_btn": "Let's talk",
+        "interested_in": "I have special interest in learning:"
+    },
+    "projects": {
+        "title": "Featured Projects",
+        "introduction_1": "Explore a selection of my work here - Interact with ",
+        "introduction_2": "projects to see my skills in action.",
+        "join": {
+            "title": "Join",
+            "description": "Task manager inspired by the Kanban System. Create and organize tasks using drag and drop functions, assign users and categories."
+        },
+        "el_pollo_loco": {
+            "title": "El Pollo Loco",
+            "description": "Jump, run and throw game based on object-orientated approach. Help Pepe to find coins and tabasco salsa to fight against the crazy hen."
+        },
+        "pokedex": {
+            "title": "Pokédex",
+            "description": "A web application that fetches Pokémon data from a REST API and displays details like types, stats, and abilities."
+        }
+    },
+    "default": {
+        "description": "No description available."
+    },
+    "project_popup": {
+        "header": "What is this project about?",
+        "next_page": "Next project"
+    },
+    "comments": {
+        "header": "What my collagues say about me",
+                "card1": {
+            "text": "During our training, Serhat has shown that he quickly understands complex topics and puts them into practice",
+            "author": "Kadir - Teammate"
+        },
+        "card2": {
+            "text": "Serhat always strived to be there for the team and always gave his best. His positive attitude and helpfulness were noticed and enriched the work..",
+            "author": "Susanne - Teammate"
+        },
+        "card3": {
+            "text": "During our training, we got to know each other and always helped each other. Serhat was always supportive and reliable.",
+            "author": "Kenan - Teammate"
+        }
+    },
+    "contact": {
+        "title": "Contact me",
+        "header": "Let's work together",
+        "subtitle": "Got a problem to solve?",
+        "offer": "Contact me through this form, I am interested in hearing from you, knowing your ideas and contributing to your projects with my work.",
+        "request_1": "Need a Frontend developer?",
+        "request_2": "Let's talk!",
+        "form_name": "What's your name?",
+        "placeholder_name": "Your name here",
+        "error_name": "Please enter your first and last name.",
+        "form_email": "What's your email?",
+        "error_email": "Please enter a valid email address.",
+        "form_message": "How can I help you?",
+        "error_message": "Please enter at least 20 characters.",
+        "form_textfield": "Hello Serhat,...",
+        "placeholder_message": "Hello Serhat, I'm interested in...",
+        "confirm_pp1": "I've read the",
+        "confirm_pp2": "privacy policy",
+        "confirm_pp3": "and agree to the processing of my data as outlined.",
+        "error_pp": "Please accept the privacy policy.",
+        "success_msg1": "Thanks for your message!",
+        "success_msg2": "I will get back to you soon.",
+        "error_msg1": "Error!",
+        "error_msg2": "Your message could not be forwarded. Please try again later."
+    },
+    "footer": {
+        "location": "Berlin, Germany",
+        "legal": "Legal Notice"
+    },
+    "legal_notice": {
+        "title": "Legal Notice",
+        "contact": "Contact",
+        "phone": "Phone",
+        "mail": "Email",
+        "source": "Source",
+        "pp_link1": "Information regarding the",
+        "pp_link2": "privacy policy",
+        "pp_link3": "can be found",
+        "pp_link4": "here"
+    }
+}

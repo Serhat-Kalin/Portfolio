@@ -1,0 +1,23 @@
+<footer>
+    <div class="footer-section">
+        <div class="footer-left">
+            <img src="../../../assets/img/logo_full.png" alt="Logo" (click)="scrollToSection('hero')">
+            <div class="footer-info">
+                <span>Web Developer</span>
+                <span>{{'footer.location' | translate}}</span>
+            </div>
+        </div>
+
+        <div class="footer-mid">© Serhat Kalin 2025</div>
+
+        <div class="footer-right">
+            <div class="footer-links">
+                <a href="https://github.com/Serhat-Kalin" target="_blank">Github</a>
+                <a href="https://www.linkedin.com/in/serhat-kalin-40a64b37a/" target="_blank">LinkedIn</a>
+                <a [href]="'mailto:' + email">Email</a>
+                <a routerLink="/legalNotice" routerLinkActive="active">{{ 'footer.legal' | translate }}</a>
+            </div>
+        </div>
+    </div>
+    <div class="footer-mid-slim">© Serhat Kalin 2025</div>
+</footer>
