@@ -191,7 +191,7 @@ export class ContactComponent implements OnDestroy {
  * @returns {Observable<string>} The server response as an observable.
  */
   sendFormData(formData: any) {
-    return this.http.post('https://serhatkalin.com/sendMail.php', JSON.stringify(formData), {
+    return this.http.post('http://serhat-kalin.com/sendMail.php', JSON.stringify(formData), {
       headers: { 'Content-Type': 'text/plain' },
       responseType: 'text'
     });
